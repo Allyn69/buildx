@@ -38,7 +38,7 @@ require (
 	github.com/miekg/pkcs11 v0.0.0-20190322140431-074fd7a1ed19 // indirect
 	github.com/moby/buildkit v0.8.1-0.20201205083753-0af7b1b9c693
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.7.1 // indirect
 	github.com/serialx/hashring v0.0.0-20190422032157-8b2912629002
